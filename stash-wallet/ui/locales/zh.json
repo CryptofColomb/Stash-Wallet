@@ -1,0 +1,12 @@
+{
+  "welcome": "欢迎使用Stash钱包",
+  "language": "语言",
+  "theme": "主题",
+  "dark": "深色",
+  "light": "浅色",
+  "wallet": "钱包",
+  "swap": "兑换",
+  "fiat": "法币",
+  "crosschain": "跨链",
+  "settings": "设置"
+}

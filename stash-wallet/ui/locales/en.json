@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome to Stash Wallet",
+  "language": "Language",
+  "theme": "Theme",
+  "dark": "Dark",
+  "light": "Light",
+  "wallet": "Wallet",
+  "swap": "Swap",
+  "fiat": "Fiat",
+  "crosschain": "Cross-Chain",
+  "settings": "Settings"
+}

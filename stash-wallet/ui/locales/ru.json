@@ -1,0 +1,12 @@
+{
+  "welcome": "Добро пожаловать в Stash Wallet",
+  "language": "Язык",
+  "theme": "Тема",
+  "dark": "Темная",
+  "light": "Светлая",
+  "wallet": "Кошелек",
+  "swap": "Своп",
+  "fiat": "Фиат",
+  "crosschain": "Межцепочковый",
+  "settings": "Настройки"
+}

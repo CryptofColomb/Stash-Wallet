@@ -1,0 +1,12 @@
+{
+  "welcome": "Stash Walletへようこそ",
+  "language": "言語",
+  "theme": "テーマ",
+  "dark": "ダーク",
+  "light": "ライト",
+  "wallet": "ウォレット",
+  "swap": "スワップ",
+  "fiat": "法定通貨",
+  "crosschain": "クロスチェーン",
+  "settings": "設定"
+}
